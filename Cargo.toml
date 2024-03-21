@@ -1,0 +1,11 @@
+[workspace]
+members = ["exploit_str"]
+resolver = "2"
+
+[workspace.package]
+authors = ["Aedan Kearns"]
+license = "Apache-2.0"
+license-file = "LICENSE"
+readme = "README.md"
+categories = ["command-line-utilities"]
+keywords = ["cli", "security", "testing", "ctf"]
